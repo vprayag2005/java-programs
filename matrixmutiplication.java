@@ -41,8 +41,9 @@ public class matrixmutiplication {
             System.out.println("Matrix Mutiplication result");
             for (int i = 0; i < row1; i++) {
                 for (int j = 0; j < col2; j++) {
-                    System.out.println(mat3[i][j]+"\t");
+                    System.out.print(mat3[i][j]+"\t");
                 }
+                System.out.println();
             }
         }
     }
