@@ -15,5 +15,6 @@ public class frequencyofchar {
             }
         }
         System.out.println("Count ="+count);
+        sc.close();
     }
 }

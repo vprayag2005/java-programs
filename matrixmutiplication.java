@@ -46,5 +46,6 @@ public class matrixmutiplication {
                 System.out.println();
             }
         }
+        sc.close();
     }
 }

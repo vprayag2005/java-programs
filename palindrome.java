@@ -17,6 +17,7 @@ public class palindrome{
         if(flag==0) {
             System.err.println("Palindrome");
         }
+        sc.close();
 
     }
 }
