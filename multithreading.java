@@ -37,7 +37,7 @@ public class multithreading {
                 obj3.start();
                 Thread.sleep(6000);
             } catch (Exception e) {
-                // TODO: handle exception
+                System.out.println(e);
             }
 
         }
